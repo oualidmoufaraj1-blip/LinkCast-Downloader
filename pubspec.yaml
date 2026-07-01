@@ -2,7 +2,7 @@ name: fc_app3_downloader_aftvnews
 description: "LinkCast Downloader — download files, browse links, and cast to TV on iOS."
 publish_to: 'none'
 
-version: 1.0.0+2
+version: 1.0.0+3
 
 environment:
   sdk: ^3.11.0
